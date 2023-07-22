@@ -13,7 +13,7 @@ Hi, Welcome to the ChatGPT WebApp. This app is developed using :
 
 # Features
 
-- Falcon 7B is the UAE’s and the Middle East’s first home-grown, open-source large language model (LLM) with 40 billion parameters trained on one trillion tokens.
+- Falcon 7B Instruct is the UAE’s and the Middle East’s first home-grown, open-source large language model (LLM) with 40 billion parameters trained on one trillion tokens.
 - It is small but powerful in itself.
 
 # Bias, Risks, and Limitations
