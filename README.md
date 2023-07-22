@@ -7,9 +7,9 @@ Hi, Welcome to the ChatGPT WebApp. This app is developed using :
 
 # Examples to try 
 
-- Write a tweet for Falcon_7B promoting their new hoodie merchandise
+- Write a tweet for Falcon_7B promoting their new hoodie merchandise.
 - How to make pasta sauce?
-- Write 5 synonyms of word help
+- Write 5 synonyms of word help.
 
 # Features
 
@@ -19,3 +19,8 @@ Hi, Welcome to the ChatGPT WebApp. This app is developed using :
 # Bias, Risks, and Limitations
 
 Falcon-7B is trained on English and French data only, and will not generalize appropriately to other languages. Furthermore, as it is trained on a large-scale corpora representative of the web, it will carry the stereotypes and biases commonly encountered online.
+
+# How to run locally?
+
+- Clone the repository
+- Open 'example.env' file and enter your own [Hugging Face Access Token] (https://huggingface.co/settings/tokens). Rename 'example.env' to '.env' file
