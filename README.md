@@ -23,4 +23,4 @@ Falcon-7B is trained on English and French data only, and will not generalize ap
 # How to run locally?
 
 - Clone the repository
-- Open 'example.env' file and enter your own [Hugging Face Access Token] (https://huggingface.co/settings/tokens). Rename 'example.env' to '.env' file
+- Open `example.env` file and enter your own [Hugging Face Access Token] (https://huggingface.co/settings/tokens). Rename `example.env` to `.env` file
