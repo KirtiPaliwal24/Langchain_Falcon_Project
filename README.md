@@ -17,8 +17,8 @@ Hi, Welcome to the ChatGPT WebApp. This app is developed using :
 - It is small but powerful in itself.
 
 # Bias, Risks, and Limitations
-
-Falcon-7B is trained on English and French data only, and will not generalize appropriately to other languages. Furthermore, as it is trained on a large-scale corpora representative of the web, it will carry the stereotypes and biases commonly encountered online.
+- It is a small model and may generate outputs which are not refined or out of context.
+- Falcon-7B is trained on English and French data only, and will not generalize appropriately to other languages. Furthermore, as it is trained on a large-scale corpora representative of the web, it will carry the stereotypes and biases commonly encountered online.
 
 # How to run locally?
 
